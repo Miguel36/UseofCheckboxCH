@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UseofCheckbox</string>
+    <string name="text_option1">Opcion1</string>
+    <string name="text_option2">Opcion2</string>
+    <string name="txt_title">Checkbox</string>
+    <string name="btn_validate">Validar</string>
+</resources>
